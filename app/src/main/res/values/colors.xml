@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- BASE Color -->
+    <color name="actionbar">#009688</color>
+    <color name="background">#F2F2F2</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="card_background_dark">#00897B</color>
+    <color name="textcolor_strong">#4c4c4c</color>
+    <color name="textcolor_weak">#999999</color>
+    <color name="textcolor_actionbar">#CCDAD7</color>
+    <color name="transparent_button_default">#00FFFFFF</color>
+    <color name="transparent_button_pressed">#66009688</color>
+
+    <color name="green">#259b24</color>
+    <color name="red">#b0120a</color>
+
+</resources>
